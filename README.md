@@ -39,7 +39,7 @@ A modern Next.js application for managing company information for customs operat
 1. Clone the repository:
 
 ```bash
-git clone git@github.com:Lalinyuuu/e-customcompany.git
+git clone git@github.com:Lalinyuuu/e-customcompany.git e-customs-company
 cd e-customs-company
 ```
 
