@@ -39,7 +39,7 @@ A modern Next.js application for managing company information for customs operat
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone git@github.com:Lalinyuuu/e-customcompany.git
 cd e-customs-company
 ```
 
@@ -49,7 +49,7 @@ cd e-customs-company
 npm install
 ```
 
-3. Create a `.env.local` file in the root directory (see `.env.example`):
+3. Create a `.env.local` or `.env` file in the root directory (see `.env.example`):
 
 ```env
 # Optional: For AI address auto-fill feature
