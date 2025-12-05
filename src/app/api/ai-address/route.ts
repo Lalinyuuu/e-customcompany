@@ -228,6 +228,7 @@ function cleanJsonText(text: string): string {
   return jsonText;
 }
 
+
 type ParsedAddressData = {
   nameTh?: string;
   nameEn?: string;
